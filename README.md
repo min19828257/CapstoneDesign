@@ -5,6 +5,7 @@
 또한 AR (Augmented Reality) 기반 실시간 대피 경로 안내 서비스는 화재로 인한 연기로 가득한 화재로 인해 실내에 갇힌 사람들에게 안내를 제공하도록 설계
 되었습니다.
 
+<div>
 <img src= width="90%">https://user-images.githubusercontent.com/36617103/68063354-90810c00-fd53-11e9-954b-3c1357abcc68.PNG</img>
 <img src= width="90%">https://user-images.githubusercontent.com/36617103/68063355-90810c00-fd53-11e9-9a98-a925a3eeaf4e.PNG</img>
 <img src= width="90%">https://user-images.githubusercontent.com/36617103/68063356-90810c00-fd53-11e9-93e9-9675efef1eb8.PNG</img>
@@ -16,3 +17,4 @@
 <img src= width="90%">https://user-images.githubusercontent.com/36617103/68063362-9119a280-fd53-11e9-8293-479ad3682abf.PNG</img>
 <img src= width="90%">https://user-images.githubusercontent.com/36617103/68063363-9119a280-fd53-11e9-84dc-65220877726f.PNG</img>
 <img src= width="90%">https://user-images.githubusercontent.com/36617103/68063364-91b23900-fd53-11e9-9c68-67e21f27ae99.PNG</img>
+</div>
