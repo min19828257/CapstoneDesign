@@ -59,7 +59,7 @@ def start(image):
             break
 
         # 탐지사각형을 오른쪽으로 이동
-        cnt3 +=10;cnt1+=10
+        cnt3+=340;cnt1+=340
 
         if(cnt1 == 1900 and cnt3 == 1700 and cnt2 ==1000 and cnt4==800):
             print("끝났습니다.")
