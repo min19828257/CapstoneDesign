@@ -47,8 +47,8 @@ def Streaming(video):
        # trans_to_server(result)
 
         # 영상띄우기
-        cv2.imshow('HA-20SW', frame)
-        cv2.waitKey(1) 
+        #cv2.imshow('HA-20SW', frame)
+        #cv2.waitKey(1) 
 
 #1. 화면영상 세팅
 #2. 스트리밍 서비스
